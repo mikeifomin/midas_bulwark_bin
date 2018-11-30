@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/bulwark-crypto/Bulwark-MN-Install/master/install.sh
